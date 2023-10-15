@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
 add merge
 Fixed the bug a second time //第二次修复bug
+The current branch is issue-202//当前分支是issue-202
